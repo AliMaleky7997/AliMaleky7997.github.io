@@ -16,3 +16,15 @@
 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+
+"Brown":
+  - firstname: ["Michael", "M.", "M. S.", "Michael S."]
+  url: http://www.cse.yorku.ca/~mbrown/
+
+
+"Brubaker":
+  - firstname: ["Marcus", "M.", "M. A.", "Marcus A."]
+  url: https://mbrubake.github.io/
+
+"Kousha":
+  - firstname: ["Shayan", "S."]
