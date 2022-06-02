@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://AliMaleky7997.github.io/sitemap.xml
+Sitemap: https://alimaleky7997.github.io//sitemap.xml
