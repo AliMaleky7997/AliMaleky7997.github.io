@@ -3,9 +3,13 @@
     url: https://sites.google.com/view/mafifi
 
 "Brown":
-  - firstname: ["Michael S", "Michael"]
+  - firstname: ["Michael S.", "Michael"]
     url: http://www.cse.yorku.ca/~mbrown/
 
 "Abdelhamed":
   - firstname: ["Abdelrahman"]
     url: https://abdokamel.github.io/
+
+"Brubaker":
+  - firstname: ["Marcus A.", "Marcus"]
+    url: https://mbrubake.github.io/
