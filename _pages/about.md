@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc in Computer Science, York University, Canada
+subtitle: Machine Learning Engineer - Toronto, Canada 
 supervisors: Dr. Michael S. Brown, Dr. Marcus A. Brubaker
 
 profile:
@@ -19,9 +19,11 @@ projects: false
 experiences: false
 ---
 
-I am a Master's student supervised by [Dr. Michael S. Brown](http://www.cse.yorku.ca/~mbrown/) and [Dr. Marcus A. Brubaker](https://mbrubake.github.io/) in YorkU CVIL Group. During my master's, I have been a [VISTA](https://vista.info.yorku.ca/) Master's member and scholarship recipient. During my master's I am honored to have worked for [Samsung AI Center - Toronto](https://research.samsung.com/aicenter_toronto) as a Machine Learning reseach intern. I have also worked as a research assistant for [MDA](https://mda.space/en/) in the Neural Image Compression for the Next-Generation Space Camera project.
+I am a Machine Learning Engineer with a focus on its applications in computer vision. During my most recent experience at [EcopiaTech](https://www.ecopiatech.com/), I worked on a wide range of deep learning applications in computer vision including 3D reconstruction, novel view synthesis, generative models, multi-view object detection, and representation learning. Before that, I completed my Master's supervised by [Dr. Michael S. Brown](http://www.cse.yorku.ca/~mbrown/) and [Dr. Marcus A. Brubaker](https://mbrubake.github.io/) in YorkU CVIL Group, where I was a member and scholarship recipient of [VISTA](https://vista.info.yorku.ca/). I am honoured to have worked for [Samsung AI Center - Toronto](https://research.samsung.com/aicenter_toronto) as a Machine Learning research intern on generative models for camera image noise modeling during my Master's. Additionally, I contributed to the Next-Generation Space Camera project on Neural Image Compression as a machine learning research assistant for [MDA](https://mda.space/en/).
 
 Prior to my master's, I have completed my BSc at [Sharif University of Technology](https://en.sharif.edu/), Tehran, Iran.
 
-My research area revolves around deep probabilistic generative models, and computational photography. 
-More specifically, I am interested in modeling and formulating the underlying hidden principles in 2D and 3D image data by utilizing the power and expressiveness of the state-of-the-art generative models. 
+I'm keen on creating products to bring automation with a focus on computer vision applications. 
+More specifically, I am interested in modeling and formulating the underlying hidden principles in 2D and 3D visual data by utilizing the power and expressiveness of state-of-the-art generative models and representation learning. 
+
+I always enjoy connecting with new people, whether it's to explore collaboration opportunities, exchange ideas, or simply catch up on our daily experiences! If you'd like to chat, feel free to send me an email or connect with me on [LinkedIn](https://www.linkedin.com/in/alimaleky/).
