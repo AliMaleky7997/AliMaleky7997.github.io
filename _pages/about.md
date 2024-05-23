@@ -25,4 +25,4 @@ I completed my Master's in Computer Science supervised by [Dr. Michael S. Brown]
 
 I'm keen on creating products to bring automation with a focus on computer vision applications. More specifically, I am interested in modeling and formulating the underlying hidden principles in 2D and 3D visual data by utilizing the power and expressiveness of state-of-the-art generative models and representation learning. 
 
-I always enjoy connecting with new people, whether it's to explore collaboration opportunities, exchange ideas, or simply catch up on our daily experiences! If you'd like to chat, feel free to send me an email or connect with me on [LinkedIn](https://www.linkedin.com/in/alimaleky/).
+I always enjoy connecting with new people, whether it's to explore collaboration opportunities, exchange ideas, or simply catch up on our daily experiences! If you'd like to chat, feel free to send me an [email](mailto:ali.maleky7997@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/alimaleky/).
