@@ -10,7 +10,7 @@ profile:
   image: AliMaleky.png
   social:
   address: >
-    <p> A 26th-year student supervised by life experiences.</p>
+    <p> A 27th-year student supervised by life experiences.</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
