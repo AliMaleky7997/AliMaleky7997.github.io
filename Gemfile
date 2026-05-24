@@ -12,6 +12,7 @@ group :jekyll_plugins do
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
+    gem 'nokogiri', '>= 1.19.3'
     gem 'unicode_utils'
     gem 'webrick'
     gem 'htmlcompressor'
